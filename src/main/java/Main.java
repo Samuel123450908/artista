@@ -19,47 +19,44 @@ public class Main {
     System.out.println("");
     System.out.println("too fast live too young too die, essa musica tem duração de 40 segundos");
      System.out.println("");
-     System.out.println("no passo a passo");
+     System.out.println("no passo a passo,essa musica tem duração de 2:28");
      System.out.println("");
-     System.out.println("lutar pelo que e meu");
+     System.out.println("lutar pelo que e meu,essa musica tem duração de 3:21");
      System.out.println("");
-     System.out.println("é quente");
+     System.out.println("é quente,essa musica tem duração de 3:00");
      System.out.println("");
-     System.out.println("onde não existe a paz não existe o amor");
+     System.out.println("onde não existe a paz não existe o amor,essa musica tem duração de 4:08");
      System.out.println("");
-     System.out.println("ela vai voltar (todos os defeitos de uma mulher perfeita)");
+     System.out.println("ela vai voltar (todos os defeitos de uma mulher perfeita,essa musica tem duração de 3:09)");
      System.out.println("");
-     System.out.println("o mundo explodiu la fora");
+     System.out.println("o mundo explodiu la fora,essa musica tem duração de 3:01");
     System.out.println("");
-    System.out.println("senhor do tempo");
+    System.out.println("senhor do tempo,essa musica tem duração de 3:23");
     System.out.println("");
-    System.out.println("liberdade acima de tudo");
+    System.out.println("liberdade acima de tudo,essa musica tem duração de 3:08");
     System.out.println("");
-     System.out.println("pra não dizer que não falei das flores");
+     System.out.println("pra não dizer que não falei das flores,essa musica tem duração de 5:28");
      System.out.println("");
-     System.out.println("abrir seus olhos");
+     System.out.println("abrir seus olhos,essa musica tem duração de 1:59");
      System.out.println("");
-     System.out.println("green goes");
+     System.out.println("green goes,essa musica tem duração de 4:40");
      System.out.println("");
-     System.out.println("i feel so good today");
-     System.out.println("peso da batida do errado que deu certo");
+     System.out.println("i feel so good today 4:09");
+     System.out.println("peso da batida do errado que deu certo,essa musica tem duração de 2:07");
      System.out.println("");
-     System.out.println("aquela paz");
+     System.out.println("aquela paz,essa musica tem duração de 2:57");
      System.out.println("");
-     System.out.println("onde esta o mundo bom? (living l.a.)");
-    
-    
-    
-    
-    
-
-
-
-
-    
-    
-
-    
-    
+     System.out.println("onde esta o mundo bom? (living l.a.),essa musica tem duração de 2:24");
+     System.out.println("o nosso blues,essa musica tem duração de 5:29");
+     System.out.println("");
+     System.out.println("o futuro é um labirinto pra quem não sabe o que quer 3:00");
+     System.out.println("");
+     System.out.println("na palma da mão - o ragga da baixada,essa musica tem duração de 5:21");
+     System.out.println("");
+     System.out.println("skate vibration,essa musica tem duração de 2:04");
+     System.out.println("");
+     System.out.println("criando anticorpos,essa musica tem duração de 0:54");
+     System.out.println("");
+    System.out.println("dias de luta, dias de gloria,essa musica tem duração de 2:26");
 }
 }
